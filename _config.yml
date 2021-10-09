@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Gang Wu"
   avatar           : "gang_avatar.jpg"
-  bio              : "Researcher \\@ Adobe Research"
+  bio              : "Researcher @ Adobe Research"
+  bio              : "@ Adobe Research"
   location         : "San Jose, California"
   employer         :  #"Adobe Inc."
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
