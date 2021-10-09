@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "About me"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -33,10 +33,10 @@ News
 * 04/2021, One patent application on "personal events scheduling" filed.
 * 03/2021, One patent application on "video summarization" filed.
 * 03/2021, Accepted the reviewer invitation from [Alexandria Engineering Journal](https://www.journals.elsevier.com/alexandria-engineering-journal) (Impact Factor: 3.732)
-* 01/31/2021, Accepted the invitation to serve as a reviewer for [ICCV-2021](http://iccv2021.thecvf.com/).
+* 02/2021, Accepted the reviewer invitation for [ICCV-2021](http://iccv2021.thecvf.com/).
 * 01/2021, I will serve as an industry mentor in [Industry Mentorship Program](http://ds.cs.umass.edu/industry/industry-mentorship-program) of UMass Amherst during 2021 Spring.
 * 12/2020, [One paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.50) on "distributed SGD" accepted to [SDM-2021](https://www.siam.org/conferences/cm/conference/sdm21).
-* 08/2020, Accepted the invitation to serve as a PC member for [AAAI-2021](https://aaai.org/Conferences/AAAI-21/).
+* 08/2020, Accepted the PC member invitation for [AAAI-2021](https://aaai.org/Conferences/AAAI-21/).
 * 08/2020, One patent application on "RTB invntory foracsting" filed.
 * 07/2020, One patent application on "content usage prediction" filed.
 * 07/2020, Accepted the PC member invitations for [CVPR-2021](https://cvpr2021.thecvf.com).
