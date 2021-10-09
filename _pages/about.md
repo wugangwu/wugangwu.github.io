@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
+*About Me*
+------
 ======
 My name is Gang Wu. I am a research scientist at [Adobe Research](https://research.adobe.com/). My research spans different machine learning fileds including statistical modeling, optimization, deep learning, and generative modeling, with data science applications such as digital marketing, user behavior modeling, recommender systems, and computer vision applications such as image compression, video understanding, etc. Prior to joining Adobe, I worked on probabilistic methods for matrix completion during my PhD in [Electrical & Computer Engineering Department at Iowa State University](https://www.ece.iastate.edu), advised by [Prof. Ratnesh Kumar](https://www.ece.iastate.edu/~rkumar/).
 
