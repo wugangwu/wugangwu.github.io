@@ -27,7 +27,7 @@ News
 * 09/2021, [One patent](https://patentimages.storage.googleapis.com/b5/59/d8/64b2d50c2a427b/US20210272341A1.pdf) on "human outfits synthesis" published.
 * 08/2021, Accepted the PC member invitation for [AAAI-2022](https://aaai.org/Conferences/AAAI-22/), and reviewer invitation for [Knowledge-Based Systems Journal](https://www.journals.elsevier.com/knowledge-based-systems) (Impact Factor: 8.038).
 * 08/2021, I gave a keynote talk on "digital marketing automation" in [KDD-2021](https://www.kdd.org/kdd2021/) workshop [Machine Learning for Consumers and Markets](https://sites.google.com/andrew.cmu.edu/mlcmatkdd2021/home).
-* 08/2021, One paper on "higher-order ranking and link prediction" accepted to [CIKM-2021](https://www.cikm2021.org)
+* 08/2021, [One paper](https://arxiv.org/pdf/1906.05059) on "higher-order ranking and link prediction" accepted to [CIKM-2021](https://www.cikm2021.org)
 * 07/2021, [One paper](http://arxiv.org/abs/2110.01774) on "video summarization" accepted to [ICCV-2021](http://iccv2021.thecvf.com/).
 * 07/2021, Accepted the PC member invitations for [MMAsia-2021](https://mmasia2021.uqcloud.net) and [CVPR-2022](https://cvpr2022.thecvf.com).
 * 06/2021, This summer I will mentor/co-mentor four wonderful PhD students: Yang Li (UNC), Uttaran Bhattacharya (UMD), Weixin Jiang and Aravind Talla (Northwestern Univ).
