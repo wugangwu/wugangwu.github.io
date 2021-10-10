@@ -30,7 +30,7 @@ News
 * 08/2021, One paper on "higher-order ranking and link prediction" accepted to [CIKM-2021](https://www.cikm2021.org)
 * 07/2021, [One paper](http://arxiv.org/abs/2110.01774) on "video summarization" accepted to [ICCV-2021](http://iccv2021.thecvf.com/).
 * 07/2021, Accepted the PC member invitations for [MMAsia-2021](https://mmasia2021.uqcloud.net) and [CVPR-2022](https://cvpr2022.thecvf.com).
-* 06/2021, This summer I will mentor/co-mentor four wonderful PhD students: Yang Li (Univ of North Carolina at Chapel Hill), Uttaran Bhattacharya (Univ of Maryland, College Park), Weixin Jiang and Aravind Talla (Northwestern Univ).
+* 06/2021, This summer I will mentor/co-mentor four wonderful PhD students: Yang Li (UNC), Uttaran Bhattacharya (UMD), Weixin Jiang and Aravind Talla (Northwestern Univ).
 * 04/2021, One patent application on "personal events scheduling" filed.
 * 03/2021, One patent application on "video summarization" filed.
 * 03/2021, Accepted the reviewer invitation from [Alexandria Engineering Journal](https://www.journals.elsevier.com/alexandria-engineering-journal) (Impact Factor: 3.732)
@@ -42,7 +42,7 @@ News
 * 08/2020, One patent application on "RTB inventory forecasting" filed.
 * 07/2020, One patent application on "content usage prediction" filed.
 * 07/2020, Accepted the PC member invitations for [CVPR-2021](https://cvpr2021.thecvf.com).
-* 06/2021, This summer I will mentor/co-mentor two wonderful PhD students: Uttaran Bhattacharya (Univ of Maryland, College Park), Gauri Jagatap (New York Univ).
+* 06/2021, This summer I will mentor/co-mentor two wonderful PhD students: Uttaran Bhattacharya (UMD), Gauri Jagatap (NYU).
 * 05/2020, One patent application on "cloud resource scaling" filed.
 * 05/2020, [One paper](http://proceedings.mlr.press/v119/park20c/park20c.pdf) on "linear quadratic regulator" accepted to [ICML-2020](https://icml.cc/Conferences/2020).
 
