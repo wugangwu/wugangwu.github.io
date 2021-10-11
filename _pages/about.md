@@ -31,11 +31,11 @@ News
 * 07/2021, [One paper](http://arxiv.org/abs/2110.01774) on "video summarization" accepted to [ICCV-2021](http://iccv2021.thecvf.com/).
 * 07/2021, Accepted the PC member invitations for [MMAsia-2021](https://mmasia2021.uqcloud.net) and [CVPR-2022](https://cvpr2022.thecvf.com).
 * 06/2021, This summer I will mentor/co-mentor four wonderful PhD students: Yang Li (UNC), Uttaran Bhattacharya (UMD), Weixin Jiang and Aravind Talla (Northwestern Univ).
+* 04/2021, my last summer intern [Uttaran Bhattacharya](https://www.cs.umd.edu/~uttaranb/) received [Adobe Research Fellowship for 2021](https://research.adobe.com/fellowship/previous-fellowship-award-winners/).
 * 04/2021, One patent application filed.
 * 03/2021, One patent application filed.
 * 03/2021, Accepted the reviewer invitation from [Alexandria Engineering Journal](https://www.journals.elsevier.com/alexandria-engineering-journal) (Impact Factor: 3.732)
 * 02/2021, Accepted the reviewer invitation for [ICCV-2021](http://iccv2021.thecvf.com/).
-* 04/2021, my last summer intern [Uttaran Bhattacharya](https://www.cs.umd.edu/~uttaranb/) received [Adobe Research Fellowship for 2021](https://research.adobe.com/fellowship/previous-fellowship-award-winners/).
 * 01/2021, I will serve as an industry mentor in [Industry Mentorship Program](http://ds.cs.umass.edu/industry/industry-mentorship-program) of UMass Amherst during 2021 Spring.
 * 12/2020, [One paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.50) on "distributed SGD" accepted to [SDM-2021](https://www.siam.org/conferences/cm/conference/sdm21).
 * 08/2020, Accepted the PC member invitation for [AAAI-2021](https://aaai.org/Conferences/AAAI-21/).
