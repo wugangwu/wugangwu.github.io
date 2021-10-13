@@ -87,7 +87,7 @@ author:
   location         : "San Jose, California"
   employer         :  #"Adobe Inc."
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=lc0B4d4AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=lc0B4d4AAAAJ&view_op=list_works&sortby=pubdate" #"https://scholar.google.com/citations?user=lc0B4d4AAAAJ&hl=en"
   email            : "gawu@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Gang-Wu-54" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
