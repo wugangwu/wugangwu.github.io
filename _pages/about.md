@@ -24,6 +24,8 @@ I am continuously looking for outstanding and self-motivated PhD student for res
 
 News
 ======
+* 11/2021, One paper on "decentralized SGD" accepted to [AAAI-2022](https://aaai.org/Conferences/AAAI-22/).
+* 10/2021, Accepted reviewer invitation for [Knowledge-Based Systems Journal](https://www.journals.elsevier.com/knowledge-based-systems) (Impact Factor: 8.038).
 * 09/2021, [One patent](https://patentimages.storage.googleapis.com/b5/59/d8/64b2d50c2a427b/US20210272341A1.pdf) on "human outfits synthesis" published.
 * 08/2021, Accepted the PC member invitation for [AAAI-2022](https://aaai.org/Conferences/AAAI-22/), and reviewer invitation for [Knowledge-Based Systems Journal](https://www.journals.elsevier.com/knowledge-based-systems) (Impact Factor: 8.038).
 * 08/2021, I gave a keynote talk on "digital marketing automation" in [KDD-2021](https://www.kdd.org/kdd2021/) workshop [Machine Learning for Consumers and Markets](https://sites.google.com/andrew.cmu.edu/mlcmatkdd2021/home).
