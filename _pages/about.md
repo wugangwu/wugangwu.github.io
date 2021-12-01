@@ -25,7 +25,7 @@ I am continuously looking for outstanding and self-motivated PhD student for res
 News
 ======
 * 11/2021, One paper on "decentralized SGD" accepted to [AAAI-2022](https://aaai.org/Conferences/AAAI-22/).
-* Our ICCV paper on [Personal Video Highlights](https://arxiv.org/pdf/2110.01774.pdf) is featured in [an article](https://mp.weixin.qq.com/s/Ow7bNhsaASyIBcM4ur5a8A) from [Synced | 机器之心](https://syncedreview.com/)).
+* Our ICCV paper on [Personal Video Highlights](https://arxiv.org/pdf/2110.01774.pdf) is featured in [an article](https://mp.weixin.qq.com/s/Ow7bNhsaASyIBcM4ur5a8A) from [Synced/机器之心](https://syncedreview.com/)).
 * 10/2021, Accepted reviewer invitation for [Knowledge-Based Systems Journal](https://www.journals.elsevier.com/knowledge-based-systems) (Impact Factor: 8.038).
 * 09/2021, [One patent](https://patentimages.storage.googleapis.com/b5/59/d8/64b2d50c2a427b/US20210272341A1.pdf) on "human outfits synthesis" published.
 * 08/2021, Accepted the PC member invitation for [AAAI-2022](https://aaai.org/Conferences/AAAI-22/), and reviewer invitation for [Knowledge-Based Systems Journal](https://www.journals.elsevier.com/knowledge-based-systems) (Impact Factor: 8.038).
